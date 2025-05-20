@@ -13,5 +13,5 @@
 "风越山岗，云无踪迹"
 愿你能在此找到一片浪花，或留下一串脚印。
 
-[➡️ 踏入海岸](https://xinen-hardwork.github.io/hugo-dev/ "欢迎访问")
-https://xinen-hardwork.github.io/hugo-dev/
+踏入海岸 [➡️](https://xinen-hardwork.github.io/hugo-dev/ "欢迎访问") 
+

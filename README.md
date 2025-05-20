@@ -1,0 +1,17 @@
+🌊 欢迎来到 CodeShell
+
+你好，旅人！
+
+这里是 Xinen 的数字海岸，堆满了贝壳与珊瑚。
+
+📜 关于这里：
+
+会努力多写点 技术随想（ 杂七杂八 ） 客 官 您 流 布！！！
+
+永远欢迎 搁浅的同行者（留言区在下方👇）
+
+"风越山岗，云无踪迹"
+愿你能在此找到一片浪花，或留下一串脚印。
+
+[➡️ 踏入海岸](https://xinen-hardwork.github.io/hugo-dev/ "欢迎访问")
+https://xinen-hardwork.github.io/hugo-dev/

@@ -46,7 +46,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;RAD (Rap Application Development, 快速应用开发) 又称 V 模型，RAD 模型大体可以划分为下图的阶段&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://Xinen-hardwork.github.io/hugo-dev/assets/V%e6%a8%a1%e5%9e%8b.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://Xinen-hardwork.github.io/hugo-dev/assets/V.png&#34;
 	
 	
 	
@@ -92,7 +92,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;W 模型增加了软件开发各阶段中同步进行的验证和确认活动&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://Xinen-hardwork.github.io/hugo-dev/assets/W%e6%a8%a1%e5%9e%8b.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://Xinen-hardwork.github.io/hugo-dev/assets/W.png&#34;
 	
 	
 	
@@ -111,7 +111,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;“ 三层金字塔” 的分层自动化测试模型&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://Xinen-hardwork.github.io/hugo-dev/assets/%e5%88%86%e5%b1%82%e8%87%aa%e5%8a%a8%e5%8c%96%e6%b5%8b%e8%af%95%e6%a8%a1%e5%9e%8b.png&#34;
+&lt;p&gt;&lt;img src=&#34;https://Xinen-hardwork.github.io/hugo-dev/assets/Model.png&#34;
 	
 	
 	
@@ -157,7 +157,7 @@
 &lt;p&gt;③ 丰富的类库支持（HTTP网络请求、文件流处理、Socket编程、多线程等）&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Python 自动化测试实际应用&lt;img src=&#34;https://Xinen-hardwork.github.io/hugo-dev/assets/Python%e8%87%aa%e5%8a%a8%e5%8c%96%e6%b5%8b%e8%af%95%e5%ae%9e%e9%99%85%e5%ba%94%e7%94%a8.png&#34;
+&lt;p&gt;Python 自动化测试实际应用&lt;img src=&#34;https://Xinen-hardwork.github.io/hugo-dev/assets/PythonApplication.png&#34;
 	
 	
 	

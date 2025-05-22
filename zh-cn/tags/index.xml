@@ -6,6 +6,31 @@
         <description>Recent content in Tags on Xinen&#39;s CodeShell</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>Xinen&#39;s CodeShell</copyright><atom:link href="https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>Xinen&#39;s CodeShell</copyright>
+        <lastBuildDate>Thu, 22 May 2025 17:38:22 +0800</lastBuildDate><atom:link href="https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Selenium</title>
+        <link>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/selenium/</link>
+        <pubDate>Thu, 22 May 2025 17:38:22 +0800</pubDate>
+        
+        <guid>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/selenium/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Web自动化</title>
+        <link>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/web%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
+        <pubDate>Thu, 22 May 2025 17:38:22 +0800</pubDate>
+        
+        <guid>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/web%E8%87%AA%E5%8A%A8%E5%8C%96/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>测试工具</title>
+        <link>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/</link>
+        <pubDate>Thu, 22 May 2025 17:38:22 +0800</pubDate>
+        
+        <guid>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>

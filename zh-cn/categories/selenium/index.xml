@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Web自动化 on Xinen&#39;s CodeShell</title>
-        <link>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/web%E8%87%AA%E5%8A%A8%E5%8C%96/</link>
-        <description>Recent content in Web自动化 on Xinen&#39;s CodeShell</description>
+        <title>Selenium on Xinen&#39;s CodeShell</title>
+        <link>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/categories/selenium/</link>
+        <description>Recent content in Selenium on Xinen&#39;s CodeShell</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>Xinen&#39;s CodeShell</copyright>
-        <lastBuildDate>Thu, 22 May 2025 17:38:22 +0800</lastBuildDate><atom:link href="https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/web%E8%87%AA%E5%8A%A8%E5%8C%96/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 22 May 2025 17:38:22 +0800</lastBuildDate><atom:link href="https://Xinen-hardwork.github.io/hugo-dev/zh-cn/categories/selenium/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Selenium基础知识</title>
         <link>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/p/selenium%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</link>
         <pubDate>Thu, 22 May 2025 17:38:22 +0800</pubDate>

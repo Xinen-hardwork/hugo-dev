@@ -31,29 +31,13 @@
     <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/post/</loc>
     <lastmod>2025-05-22T17:38:22+08:00</lastmod>
   </url><url>
-    <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/selenium/</loc>
+    <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/categories/selenium/</loc>
     <lastmod>2025-05-22T17:38:22+08:00</lastmod>
   </url><url>
     <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/p/selenium%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</loc>
     <lastmod>2025-05-22T17:38:22+08:00</lastmod>
   </url><url>
-    <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/</loc>
-    <lastmod>2025-05-22T17:38:22+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://Xinen-hardwork.github.io/hugo-dev/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/web%E8%87%AA%E5%8A%A8%E5%8C%96/</loc>
-    <lastmod>2025-05-22T17:38:22+08:00</lastmod>
-  </url><url>
-    <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/categories/%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2025-05-22T17:38:22+08:00</lastmod>
   </url><url>
     <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/categories/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95/</loc>
@@ -89,6 +73,18 @@
                 rel="alternate"
                 hreflang="zh-cn"
                 href="https://Xinen-hardwork.github.io/hugo-dev/zh-cn/archives/"
+                />
+  </url><url>
+    <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://Xinen-hardwork.github.io/hugo-dev/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://Xinen-hardwork.github.io/hugo-dev/zh-cn/tags/"
                 />
   </url><url>
     <loc>https://Xinen-hardwork.github.io/hugo-dev/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
